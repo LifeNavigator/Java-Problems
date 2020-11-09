@@ -2,20 +2,22 @@
 This consists of all probems found on Part 1 of the Object Oriented programming from University of Helsinki's MOOC available here: 
 http://mooc.fi/courses/2013/programming-part-1/
 
+Each folder consists of the challenges I've successfully completed for every section. Below is an overview of what I've learnt from each section
+
 
 ## What this course consisted of:
 Through this course, I have learnt the basics of computer programming, along with algorithms and object-oriented programming through the Java programming language. 
 
 ### Part 1: the basics:
 
-e first part of the course focuses on taking the plunge with programming and getting familiar with all the required tools. During the part 1, I learnt the basic syntax of Java. I became familiar with the 'NetBeans with TMC' development environment used in this course, The goal in this sdection was to:
+The first part of the course focuses on taking the plunge with programming and getting familiar with all the required tools. During part 1, I learnt the basic syntax of Java. I became familiar with the 'NetBeans with TMC' development environment used in this course, The goal in this section was to:
 
-Know what a "string" refers to in programming.
-Know how to join (i.e., "concatenate") strings together.
-Understand the concept of a variable. You know what variable types, names, and values are.
-Know how to create and use string, integer, floating-point, and boolean variables.
+- Know what a "string" refers to in programming.
+- Know how to join (i.e., "concatenate") strings together.
+- Understand the concept of a variable. You know what variable types, names, and values are. 
+- Know how to create and use string, integer, floating-point, boolean variables, 
 
-
+By the end of this part I had:
 - Become familiar with the idea of a conditional statement and know how to create a program containing optional operations through the use of conditional statements.
 - Become familiar with comparison and logical operators commonly used in conditional statements.
 - Know how to compare both numbers and strings, remembering the equals-command for strings.
@@ -32,7 +34,6 @@ The second part focused heavily on making use of what was learnt in part 1, how 
 
 ##### Repeating functionality
 
-Learning outcomes:
 - Learnt how to use the break command to end a loop's execution.
 - Learnt how to use continue command to return to the beginning of a loop.
 - Recognized situations where a while loop should be used and those where a for loop is more appropriate.
