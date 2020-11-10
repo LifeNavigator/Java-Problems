@@ -1,5 +1,5 @@
-# Java-Problems
-This consists of all probems found on Part 1 of the Object Oriented programming from University of Helsinki's MOOC available here: 
+# University of Helsinki: Java Programming 1 Journey:
+This consists of all probems found on Part 1 of the Object Oriented Programming course from University of Helsinki's MOOC available here: 
 http://mooc.fi/courses/2013/programming-part-1/
 
 Each folder consists of the challenges I've successfully completed for every section. Below is an overview of what I've learnt from each section
